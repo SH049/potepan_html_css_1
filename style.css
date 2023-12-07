@@ -224,6 +224,10 @@ header {
     padding:0;
     margin: 0;
 }
+.terms {
+    color: inherit;
+    text-decoration: none;
+}
 /* instrumental */
 
 .center {
